@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ryan Ananda Putra</h1>
-<h3 align="center">A dynamic Web developer from Indonesia</h3>
+<h3 align="center">A dynamic Programmer from Indonesia</h3>
 
 
 - 👨‍💻 All of my projects are available at [https://code-by-ryan.vercel.app/](https://code-by-ryan.vercel.app/)
